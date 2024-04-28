@@ -14,14 +14,14 @@ This section should be filled out during the Sprint. For the Hello World program
 
 Record all CSE 310 work that you do on your individual module (Hello World this week) or the team project.  Include time learning, practicing, developing, testing, and documenting.  Don't include time spent in the 4 class meetings (Planning, Stand-Up, Team Review, and Individual Review).  You will need to sum of these hours at the end of the Sprint. Note that the hours you report will affect your grades.
 
-Note that `IM` stands for Individual Module and `TP` stands for Team Project.
+Note that `IM` stands for Individual Module and `TP` stands for Team Project.fffff
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|4/26      |18:00     |  IM    |Installed Java and made code                |1 hour       |
+|4/27      |11:00     |  IM    |Made a video                                |30M          |
+|          |          |        |Set a goal                                  |30M          |
+|          |          |        |Did assignments                             |1 hour       |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 
@@ -32,9 +32,11 @@ _Note: Add more rows as needed._
 This section should be filled out at the end of the Sprint and submitted.  For the Hello World program, you will complete this at the end of Week 1.
 
 1. Put your GitHub link for your demonstration software here: 
+https://github.com/dannykim1837/CSE310
 
 2. Put your YouTube link for your code walkthrough and demo video here:
-프로그램작동하는거랑 설명? 비디오를 찍어서 올리래 5분
+https://youtu.be/vY3_l8RPM9w
+
 3. Complete the following checklist by either indicating "Yes" or "No".  If you indicate "No" then provide an explanation of why.
 
 |Question                                                    |Response|
@@ -51,7 +53,7 @@ This section should be filled out at the end of the Sprint and submitted.  For t
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|       3 Hour      |
 
 
 6. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.

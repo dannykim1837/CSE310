@@ -1,6 +1,7 @@
 # CSE 310 - Course Report
 
-Name:
+Name:Danny Kim
+
 
 ## Part 1 - Semester Planning
 
@@ -61,6 +62,7 @@ Every Sprint you will be setting a goal to improve one of your learning skills. 
 
 2. Based on your resonses in the survey above, pick one area that you want to improve.  Write a "Small and Simple" goal to improve in this area throughout the semester.  Write your goal below:
 
+I realize that I often fail to adequately document what I've learned and I'm not comfortable sharing with others. Additionally, I haven't been pinpointing exactly where I may fail or what parts I don't fully understand. Through this survey, I aim to address these shortcomings and set precise goals, planning to achieve good grades this semester.
 
 ## Part 2 - Semester Conclusion
 
