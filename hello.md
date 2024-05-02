@@ -58,3 +58,5 @@ https://youtu.be/vY3_l8RPM9w
 
 6. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
 
+- I studied Java language during this sprint. I got to know Java for the first time this week and I had a hard time installing it. Also, I wanted to write the code through vscode, but there was an error in the process of installing the extension. I want to solve these parts to make the environment I work in better.
+

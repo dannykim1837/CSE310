@@ -1,14 +1,15 @@
 # CSE 310 - Team Project Report
 
-Canvas Team Number:
+Canvas Team Number: 4
 
-Team Member Names:
+Team Member Names: 
 
 ## Part 1 - Initial Planning
 
 This section should be filled out during the first Sprint and submitted by one member of the team.
 
 ### Section 1.1 - Initial Project Scope
+
 
 During this semester, your team will work together to create an application to help students in college.  Your app can be written for the web, mobile device, desktop, or terminal.  The app must include some form of data storage in either a database or a file.  During Sprint 2 you will provide a more detailed scope of the project. 
 
