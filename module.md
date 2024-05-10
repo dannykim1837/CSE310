@@ -111,7 +111,7 @@ https://github.com/dannykim1837/CSE310
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|    12 hours       |
+|Individual Module|    14 hours       |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
 
