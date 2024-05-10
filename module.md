@@ -77,10 +77,12 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |----------|----------|--------|--------------------------------------------|-------------|
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|  May 8   |  17:00   |  TP    |Team meating and did my part                |  2 Hour     |
+|          |          |        |Made GUI and add components                 |  2 hours    |
+|  May 8   |  17:00   |  TP    |Team meating and did my part                |  2 Hours    |
+|  May 9   |  15:00   |  IM    |connect api with my code                    |  3 Hours    |
+|  May 10  |  09:00   |  IM    |fix error codes                             |  1 Hours    |
+|  May 10  |  15:00   |  IM    |connect api with my code                    |  3 Hours    |
+|  May 9   |  15:00   |  IM    |connect api with my code                    |  3 Hours    |
 
 _Note: Add more rows as needed._
 
