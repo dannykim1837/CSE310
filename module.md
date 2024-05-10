@@ -80,7 +80,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|  May 8   |  17:00   |  TP    |Team meating and did my part                |  2 Hour     |
 
 _Note: Add more rows as needed._
 
@@ -97,11 +97,11 @@ https://github.com/dannykim1837/CSE310
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |  Y     |
+|Did you complete all the unique requirements for the module?|   Y    |
+|Did you write at least 100 lines of code?                   |    Y   |
+|Did you fully complete the readme.md file?                  |     Y  |
+|Did you put the readme.md file in GitHub in the top folder? |      Y |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
 
@@ -111,7 +111,7 @@ https://github.com/dannykim1837/CSE310
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|    12 hours       |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
 
