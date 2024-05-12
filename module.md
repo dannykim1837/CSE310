@@ -75,14 +75,14 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |Made GUI and add components                 |  2 hours    |
+|  May 1   |  16:00   |  IM    |Install java and intellij program           |  1 hour     |
+|  May 2   |  18:00   |  IM    |Study about Java                            |  2 hours    |
+|  May 4   |  13:00   |  IM    |Made GUI and add components                 |  2 hours    |
 |  May 8   |  17:00   |  TP    |Team meating and did my part                |  2 Hours    |
 |  May 9   |  15:00   |  IM    |connect api with my code                    |  3 Hours    |
 |  May 10  |  09:00   |  IM    |fix error codes                             |  1 Hours    |
 |  May 10  |  15:00   |  IM    |connect api with my code                    |  3 Hours    |
-|  May 9   |  15:00   |  IM    |connect api with my code                    |  3 Hours    |
+|  May 10  |  15:00   |  IM    |Add more information for forecast           |  2 Hours    |
 
 _Note: Add more rows as needed._
 
