@@ -117,3 +117,4 @@ https://github.com/dannykim1837/CSE310
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
 
+I made a weather forecasting program and this was my first project. I had a hard time installing Java for the first time, but I installed the InteliJ program that was more convenient by referring to Module Descriptions and it worked well. Also, I briefly planned and made how to make it before making the program. This made it possible to use time efficiently. Tools like InteliJ and Git helped manage tasks and codes efficiently, and I will repeat this behavior for future sprints.
