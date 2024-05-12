@@ -94,6 +94,7 @@ This section should be filled out at the end of the Sprint and submitted.
 1. Put your GitHub link for your demonstration software here: 
 https://github.com/dannykim1837/CSE310
 2. Put your YouTube link for your code walkthrough and demo video here:
+https://youtu.be/Xw2lB0__w9c
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
