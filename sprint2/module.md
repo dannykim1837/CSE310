@@ -62,6 +62,7 @@ Hangman Game
 - Days : Monday to Sunday, Times : 16:00 - 17:00, Locations : MC building, STC
 
 5. Identify both a technical risk and a behavioral risk that you antcipate may occur during this Sprint.  What is your mitgigation plan?
+If I have difficulty making code, I will ask advice from a friend who worked on the same project first among the same team mates. Also if I face any difficulties with managing time, I'll use simple strategies like setting reminders and making a daily to-do list to stay on track and complete tasks on time. My goal is to create a Hangman game that's easy to play and fun for users.
 
 
 ## Part 2 - Time Log
