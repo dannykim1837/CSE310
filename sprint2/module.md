@@ -1,6 +1,6 @@
 # CSE 310 - Module Report
 
-Name:
+Name:Danny Kim
 
 ## Part 1 - Module Planning
 
@@ -51,12 +51,15 @@ Data structure from STL (such as a vector, list, or map)
 During the Sprint, you will spend 4 hours in class meetings, 4 hours on your team project (2 of which during class), and 10 hours on your selected module.  Make a plan for your 10 hours by answering the questions below.  You should refer back to this plan and make adjustments during the Sprint.
 
 1. What sources have you selected to learn the technical material?
+Youtube, ChatGPT, Google
 
 2. What is your plan to practice the new material?  In other words, what is the order in which you plan to learn the material before working on your demonstration software?
+I will first download the programs I need to make the Hangman game in C++. Then I will look for the materials I need to write the code and find information about c++. Additionally, I will learn how to write functions to make it easier to manage the code. After that, I will focus on understanding the classes and objects so that I can organize the game better. I will work with strings to process the user's guesses and practice showing hidden words.
 
 3. What demonstration software do you plan on submitting at the end of the Sprint (note that this can and may change)?
-
+Hangman Game
 4. Identify the days, times, and locations that you will work on the module.
+- Days : Monday to Sunday, Times : 16:00 - 17:00, Locations : MC building, STC
 
 5. Identify both a technical risk and a behavioral risk that you antcipate may occur during this Sprint.  What is your mitgigation plan?
 
